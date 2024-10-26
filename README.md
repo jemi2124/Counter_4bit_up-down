@@ -40,11 +40,6 @@ Functional Simulation:
 	source /cadence/install/cshrc (mention the path of the tools) 
       (The path of cshrc could vary depending on the installation destination)
       
-	After this you can see the window like below 
-
-
-## Fig 2: Invoke the Cadence Environment
-
 
 ## Creating Source Code:
 
@@ -78,12 +73,12 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ![image](https://github.com/user-attachments/assets/93359d7f-5d76-46d6-b1c1-ed3f93f74528)
 
+## Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
 
-## Fig 4: cds.lib file Creation
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
 
@@ -94,6 +89,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ![image](https://github.com/user-attachments/assets/7e58cea0-1248-45c7-b6ec-d68089a9594d)
 
+## Fig 4: cds.lib file Creation
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
