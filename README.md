@@ -89,7 +89,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ![image](https://github.com/user-attachments/assets/7e58cea0-1248-45c7-b6ec-d68089a9594d)
 
-## Fig 4: cds.lib file Creation
+## Fig 5: Selection of Don’t include any libraries
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
 
